@@ -36,6 +36,10 @@ projects:
     version: '1.3'
   field_group:
     version: '1.5'
+  module_filter:
+    version: '2.0'
+  metatag:
+    version: '1.17'
   media:
     version: '1.5'
   filefield_paths:
