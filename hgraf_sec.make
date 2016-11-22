@@ -10,6 +10,8 @@ projects:
     version: 3.0-rc5
   breakpoints:
     version: '1.4'
+  block_class:
+    version: '2.3'
   ctools:
     version: '1.11'
   bundle_copy:
@@ -46,6 +48,8 @@ projects:
     version: '1.0'
   flexslider:
     version: 2.0-rc1
+  fitvids:
+    version: '1.17'
   picture:
     version: '2.13'
   front:
