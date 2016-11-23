@@ -120,6 +120,8 @@ projects:
     version: 3.0-alpha3
   views_responsive_grid:
     version: '1.3'
+  views_bulk_operations:
+    version: '3.3'
   webform:
     version: '4.14'
   wysiwyg:
