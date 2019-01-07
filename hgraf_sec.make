@@ -5,39 +5,39 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.52.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.61.1.tar.gz'
   admin_menu:
-    version: 3.0-rc5
+    version: 3.0-rc6
   breakpoints:
-    version: '1.4'
+    version: '1.6'
   block_class:
     version: '2.3'
   ctools:
-    version: '1.11'
+    version: '1.14'
   bundle_copy:
     version: '1.1'
   ccl:
-    version: '1.5'
+    version: '1.6'
   ckeditor_link:
     version: '2.4'
   colorbox:
-    version: '2.12'
+    version: '2.13'
   date:
-    version: '2.9'
+    version: '2.10'
   draggableviews:
     version: '2.1'
   ds:
-    version: '2.14'
+    version: '2.16'
   emfield:
     version: 1.0-alpha2
   entity:
-    version: '1.8'
+    version: '1.9'
   entitycache:
     version: '1.5'
   eva:
-    version: '1.3'
+    version: '1.4'
   field_group:
-    version: '1.5'
+    version: '1.6'
   module_filter:
     version: '2.0'
   metatag:
@@ -45,9 +45,9 @@ projects:
   media:
     version: '1.5'
   filefield_paths:
-    version: '1.0'
+    version: '1.1'
   flexslider:
-    version: 2.0-rc1
+    version: 2.0-rc2
   fitvids:
     version: '1.17'
   picture:
@@ -55,15 +55,15 @@ projects:
   front:
     version: '2.4'
   globalredirect:
-    version: '1.5'
+    version: '1.6'
   google_analytics:
-    version: '2.3'
+    version: '2.5'
   panels:
-    version: '3.8'
+    version: '3.9'
   imagecache_actions:
-    version: '1.7'
+    version: '1.9'
   imce:
-    version: '1.10'
+    version: '1.11'
   imce_wysiwyg:
     version: '1.0'
   invisimail:
@@ -73,15 +73,17 @@ projects:
   location:
     version: '3.7'
   libraries:
-    version: '2.3'
+    version: '2.5'
   link:
-    version: '1.4'
+    version: '1.5'
   mailchimp:
-    version: '4.7'
+    version: '4.11'
     patch:
       - 'https://www.drupal.org/files/issues/2822227-translation-email-address.patch'
   masquerade:
     version: 1.0-rc7
+  media:
+    version: '1.7'
   multiupload_filefield_widget:
     version: '1.13'
   multiupload_imagefield_widget:
@@ -91,31 +93,31 @@ projects:
   redirect:
     version: 1.0-rc3
   robotstxt:
-    version: '1.3'
+    version: '1.4'
   shs:
-    version: 1.x-dev
+    version: '1.7'
   smtp:
     version: '1.4'
   tablefield:
-    version: '2.5'
+    version: '3.2'
   tagadelic:
     version: 2.x-dev
   taxonomy_access_fix:
-    version: '2.3'
+    version: '2.4'
   token:
-    version: '1.6'
+    version: '1.7'
   views:
-    version: '3.14'
+    version: '3.20'
   views_content_cache:
     version: 3.0-alpha3
   views_responsive_grid:
     version: '1.3'
   webform:
-    version: '4.14'
+    version: '4.18'
   wysiwyg:
-    version: '2.2'
+    version: '2.5'
   xmlsitemap:
-    version: '2.3'
+    version: '2.6'
   tabvn:
     type: module
     download:
