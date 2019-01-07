@@ -48,6 +48,8 @@ projects:
     version: 2.0-rc2
   fitvids:
     version: '1.17'
+  file_entity:
+    version: '2.25'
   picture:
     version: '2.13'
   front:
@@ -81,7 +83,7 @@ projects:
   masquerade:
     version: 1.0-rc7
   media:
-    version: '1.7'
+    version: '2.21'
   multiupload_filefield_widget:
     version: '1.13'
   multiupload_imagefield_widget:
