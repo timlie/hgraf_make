@@ -42,8 +42,6 @@ projects:
     version: '2.0'
   metatag:
     version: '1.17'
-  media:
-    version: '1.5'
   filefield_paths:
     version: '1.1'
   flexslider:
