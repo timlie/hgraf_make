@@ -45,9 +45,11 @@ projects:
   metatag:
     version: '1.25'
   media:
-    version: '1.7'
+    version: '2.21'
   filefield_paths:
     version: '1.1'
+  file_entity:
+    version: '2.25'
   flexslider:
     version: 2.0-rc1
   fitvids:
