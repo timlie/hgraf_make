@@ -97,7 +97,7 @@ projects:
   shs:
     version: '1.7'
   smtp:
-    version: '1.4'
+    version: '1.7'
   tablefield:
     version: '3.2'
   tagadelic:
