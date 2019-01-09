@@ -28,6 +28,8 @@ projects:
     version: '1.5'
   field_group:
     version: '1.6'
+  field_permissions:
+    version: '1.0'
   flag:
     version: '3.9'
   honeypot:
