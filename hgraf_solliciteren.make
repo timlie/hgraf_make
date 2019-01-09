@@ -33,7 +33,9 @@ projects:
   flag:
     version: '3.9'
   honeypot:
-    version: '1.25'
+    download:
+      revision: '8d6a3de'
+      branch: '7.x-1.x'
   jquery_update:
     version: '2.7'
   label_help:
