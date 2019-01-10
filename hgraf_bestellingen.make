@@ -26,7 +26,7 @@ projects:
     version: 1.0-beta2
   commerce_decimal_quantities:
     version: '1.1'
-	patch:
+    patch:
       - 'https://raw.githubusercontent.com/timlie/hgraf_patches/master/commerce_decimal_quantities/0001-Changed-the-precision-to-8.patch'
   commerce_feeds:
     version: '1.4'
