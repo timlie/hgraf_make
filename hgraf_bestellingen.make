@@ -56,6 +56,11 @@ projects:
     version: '1.6'
   format_number:
     version: 1.x-dev
+  hgraf_alter_query:
+    type: module
+    download:
+        type: 'git'
+        url: 'https://github.com/timlie/hgraf_alter_query.git'
   inline_entity_form:
     version: '1.8'
   job_scheduler:
