@@ -70,6 +70,8 @@ projects:
     version: '2.1'
   print:
     version: '1.3'
+    patch:
+      - 'https://raw.githubusercontent.com/timlie/hgraf_patches/master/print/0001-Make-wkhtmltopdf-available.patch'
   robotstxt:
     version: '1.4'
   rules:
