@@ -77,6 +77,7 @@ projects:
     version: '1.3'
     patch:
       - 'https://raw.githubusercontent.com/timlie/hgraf_patches/master/print/0001-Make-wkhtmltopdf-available.patch'
+      - 'https://raw.githubusercontent.com/timlie/hgraf_patches/master/print/0001-SA-CONTRIB-2018-063.patch'
   robotstxt:
     version: '1.4'
   rules:
