@@ -108,6 +108,8 @@ projects:
     version: '1.7'
   views:
     version: '3.20'
+  views_aggregator:
+    version: '1.4'
   views_content_cache:
     version: 3.0-alpha3
   views_responsive_grid:
