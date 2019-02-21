@@ -75,7 +75,7 @@ projects:
   libraries:
     version: '2.5'
   link:
-    version: '1.5'
+    version: '1.6'
   mailchimp:
     version: '4.11'
     patch:
