@@ -50,6 +50,12 @@ projects:
     version: '1.17'
   file_entity:
     version: '2.25'
+  hgraf_openid_connect:
+    type: module
+    subdir: custom
+    download:
+      type: 'git'
+      url: 'git@github.com:timlie/hgraf_openid_connect.git'
   picture:
     version: '2.13'
   front:
@@ -88,6 +94,16 @@ projects:
     version: '1.13'
   multiupload_imagefield_widget:
     version: '1.3'
+  openid_connect:
+    version: 1.0-beta8
+    patch:
+      - "https://www.drupal.org/files/issues/2019-01-09/openid_connect-account_claiming-3005824-15.patch"
+      - "https://www.drupal.org/files/issues/add_pre_login_hook-2559543-5.patch"
+      - "https://raw.githubusercontent.com/timlie/hgraf_patches/master/openid_connect/0001-Disabled-access-to-password-form.patch"
+  openid_connect_windows_aad:
+    version: '1.0'
+    patch:
+      - "https://www.drupal.org/files/issues/pass_along_refresh_token-2944185-2.patch"
   pathauto:
     version: '1.3'
   redirect:

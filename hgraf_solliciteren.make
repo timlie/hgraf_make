@@ -54,7 +54,7 @@ projects:
     version: '2.1'
   openid_connect:
     version: 1.0-beta8
-	patch:
+    patch:
       - "https://www.drupal.org/files/issues/2019-01-09/openid_connect-account_claiming-3005824-15.patch"
       - "https://www.drupal.org/files/issues/add_pre_login_hook-2559543-5.patch"
       - "https://raw.githubusercontent.com/timlie/hgraf_patches/master/openid_connect/0001-Disabled-access-to-password-form.patch"

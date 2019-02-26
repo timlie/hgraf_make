@@ -61,6 +61,12 @@ projects:
     download:
         type: 'git'
         url: 'https://github.com/timlie/hgraf_alter_query.git'
+  hgraf_openid_connect:
+    type: module
+    subdir: custom
+    download:
+      type: 'git'
+      url: 'git@github.com:timlie/hgraf_openid_connect.git'
   inline_entity_form:
     version: '1.8'
   job_scheduler:
@@ -73,6 +79,16 @@ projects:
     version: 1.0-rc7
   module_filter:
     version: '2.1'
+  openid_connect:
+    version: 1.0-beta8
+    patch:
+      - "https://www.drupal.org/files/issues/2019-01-09/openid_connect-account_claiming-3005824-15.patch"
+      - "https://www.drupal.org/files/issues/add_pre_login_hook-2559543-5.patch"
+      - "https://raw.githubusercontent.com/timlie/hgraf_patches/master/openid_connect/0001-Disabled-access-to-password-form.patch"
+  openid_connect_windows_aad:
+    version: '1.0'
+    patch:
+      - "https://www.drupal.org/files/issues/pass_along_refresh_token-2944185-2.patch"
   print:
     version: '1.3'
     patch:
