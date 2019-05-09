@@ -5,7 +5,7 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.61.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.67.1.tar.gz'
   views_bulk_operations:
     version: '3.5'
     patch:
@@ -15,7 +15,7 @@ projects:
   autoassignrole:
     version: '1.2'
   ctools:
-    version: '1.14'
+    version: '1.15'
   conditional_fields:
     version: 3.0-alpha2
   content_access:
@@ -51,7 +51,7 @@ projects:
   masquerade:
     version: 1.0-rc7
   module_filter:
-    version: '2.1'
+    version: '2.2'
   openid_connect:
     version: 1.0-beta8
     patch:
@@ -71,7 +71,7 @@ projects:
   robotstxt:
     version: '1.4'
   rules:
-    version: '2.11'
+    version: '2.12'
   taxonomy_manager:
     version: '1.0'
   term_reference_tree:
@@ -81,7 +81,7 @@ projects:
   transliteration:
     version: '3.2'
   views:
-    version: '3.20'
+    version: '3.22'
   views_dependent_filters:
     version: '1.1'
   views_send:

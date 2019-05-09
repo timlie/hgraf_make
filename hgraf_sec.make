@@ -5,7 +5,7 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.61.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.67.1.tar.gz'
   admin_menu:
     version: 3.0-rc6
   breakpoints:
@@ -13,7 +13,7 @@ projects:
   block_class:
     version: '2.3'
   ctools:
-    version: '1.14'
+    version: '1.15'
   bundle_copy:
     version: '1.1'
   ccl:
@@ -63,7 +63,7 @@ projects:
   globalredirect:
     version: '1.6'
   google_analytics:
-    version: '2.5'
+    version: '2.6'
   panels:
     version: '3.9'
   imagecache_actions:
@@ -111,11 +111,11 @@ projects:
   robotstxt:
     version: '1.4'
   shs:
-    version: '1.7'
+    version: '1.8'
   smtp:
     version: '1.7'
   tablefield:
-    version: '3.2'
+    version: '3.4'
   tagadelic:
     version: 2.x-dev
   taxonomy_access_fix:
@@ -123,7 +123,7 @@ projects:
   token:
     version: '1.7'
   views:
-    version: '3.20'
+    version: '3.22'
   views_aggregator:
     version: '1.4'
   views_content_cache:
@@ -131,7 +131,7 @@ projects:
   views_responsive_grid:
     version: '1.3'
   webform:
-    version: '4.18'
+    version: '4.19'
   wysiwyg:
     version: '2.5'
   xmlsitemap:

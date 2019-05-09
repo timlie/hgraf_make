@@ -5,7 +5,7 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.61.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.67.1.tar.gz'
   views_bulk_operations:
     version: '3.5'
   addressfield:
@@ -13,7 +13,7 @@ projects:
   admin_menu:
     version: 3.0-rc6
   ctools:
-    version: '1.14'
+    version: '1.15'
   ccl:
     version: '1.6'
   commerce:
@@ -39,7 +39,7 @@ projects:
   date:
     version: '2.10'
   editablefields:
-    version: 1.0-alpha3
+    version: 1.0-alpha4
   editableviews:
     version: 1.0-beta10
   entity:
@@ -55,7 +55,7 @@ projects:
   field_group:
     version: '1.6'
   format_number:
-    version: 1.x-dev
+    version: 1.0-rc1
   hgraf_alter_query:
     type: module
     download:
@@ -78,7 +78,7 @@ projects:
   masquerade:
     version: 1.0-rc7
   module_filter:
-    version: '2.1'
+    version: '2.2'
   openid_connect:
     version: 1.0-beta8
     patch:
@@ -97,7 +97,7 @@ projects:
   robotstxt:
     version: '1.4'
   rules:
-    version: '2.11'
+    version: '2.12'
   rules_url_argument:
     version: '1.2'
   select_or_other:
@@ -105,7 +105,7 @@ projects:
   token:
     version: '1.7'
   views:
-    version: '3.20'
+    version: '3.22'
   views_pdf:
     version: '1.7'
   views_autocomplete_filters:
