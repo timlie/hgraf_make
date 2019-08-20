@@ -67,7 +67,7 @@ projects:
   panels:
     version: '3.9'
   imagecache_actions:
-    version: '1.9'
+    version: '1.11'
   imce:
     version: '1.11'
   imce_wysiwyg:
@@ -89,7 +89,7 @@ projects:
   masquerade:
     version: 1.0-rc7
   media:
-    version: '2.21'
+    version: '2.23'
   multiupload_filefield_widget:
     version: '1.13'
   multiupload_imagefield_widget:
@@ -115,7 +115,7 @@ projects:
   smtp:
     version: '1.7'
   tablefield:
-    version: '3.4'
+    version: '3.5'
   tagadelic:
     version: 2.x-dev
   taxonomy_access_fix:
@@ -123,7 +123,7 @@ projects:
   token:
     version: '1.7'
   views:
-    version: '3.22'
+    version: '3.23'
   views_aggregator:
     version: '1.4'
   views_content_cache:
@@ -131,9 +131,9 @@ projects:
   views_responsive_grid:
     version: '1.3'
   webform:
-    version: '4.19'
+    version: '4.20'
   wysiwyg:
-    version: '2.5'
+    version: '2.6'
   xmlsitemap:
     version: '2.6'
   tabvn:
