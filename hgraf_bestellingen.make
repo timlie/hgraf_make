@@ -17,7 +17,7 @@ projects:
   ccl:
     version: '1.6'
   commerce:
-    version: '1.14'
+    version: '1.15'
   commerce_backoffice:
     version: '1.5'
   commerce_custom_order_status:
@@ -105,7 +105,7 @@ projects:
   token:
     version: '1.7'
   views:
-    version: '3.22'
+    version: '3.23'
   views_pdf:
     version: '1.7'
   views_autocomplete_filters:
