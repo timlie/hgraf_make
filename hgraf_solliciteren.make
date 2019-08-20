@@ -81,7 +81,7 @@ projects:
   transliteration:
     version: '3.2'
   views:
-    version: '3.22'
+    version: '3.23'
   views_dependent_filters:
     version: '1.1'
   views_send:
