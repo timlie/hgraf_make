@@ -45,7 +45,7 @@ projects:
   metatag:
     version: '1.25'
   media:
-    version: '2.21'
+    version: '2.23'
   filefield_paths:
     version: '1.1'
   file_entity:
@@ -67,7 +67,7 @@ projects:
   panels:
     version: '3.9'
   imagecache_actions:
-    version: '1.9'
+    version: '1.11'
   imce:
     version: '1.11'
   imce_wysiwyg:
@@ -111,7 +111,7 @@ projects:
   service_links:
     version: '2.4'
   tablefield:
-    version: '3.4'
+    version: '3.5'
   tagadelic:
     version: 2.x-dev
   taxonomy_access_fix:
@@ -119,7 +119,7 @@ projects:
   token:
     version: '1.7'
   views:
-    version: '3.22'
+    version: '3.23'
   views_content_cache:
     version: 3.0-alpha3
   views_responsive_grid:
@@ -127,9 +127,9 @@ projects:
   views_bulk_operations:
     version: '3.5'
   webform:
-    version: '4.19'
+    version: '4.20'
   wysiwyg:
-    version: '2.5'
+    version: '2.6'
   xmlsitemap:
     version: '2.6'
   tabvn:
