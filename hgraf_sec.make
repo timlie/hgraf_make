@@ -189,7 +189,7 @@ libraries:
     type: library
     download:
       type: 'file'
-      url: 'https://github.com/thinkshout/mailchimp-api-php/releases/download/v1.0.5/v1.0.5-package.zip'
+      url: 'https://github.com/thinkshout/mailchimp-api-php/releases/download/v1.0.10/v1.0.10-package.zip'
   underscore:
     directory_name: underscore
     type: library
