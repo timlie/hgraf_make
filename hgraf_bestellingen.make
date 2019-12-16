@@ -5,7 +5,7 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.67.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.68.1.tar.gz'
   views_bulk_operations:
     version: '3.5'
   addressfield:
@@ -15,7 +15,7 @@ projects:
   ctools:
     version: '1.15'
   ccl:
-    version: '1.6'
+    version: '1.7'
   commerce:
     version: '1.15'
   commerce_backoffice:
@@ -68,7 +68,7 @@ projects:
       type: 'git'
       url: 'git@github.com:timlie/hgraf_openid_connect.git'
   inline_entity_form:
-    version: '1.8'
+    version: '1.9'
   job_scheduler:
     version: '2.0'
   jquery_update:

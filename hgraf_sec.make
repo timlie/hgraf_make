@@ -5,7 +5,7 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.67.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.68.1.tar.gz'
   admin_menu:
     version: 3.0-rc6
   breakpoints:
@@ -17,7 +17,7 @@ projects:
   bundle_copy:
     version: '1.1'
   ccl:
-    version: '1.6'
+    version: '1.7'
   ckeditor_link:
     version: '2.4'
   colorbox:
@@ -49,7 +49,7 @@ projects:
   fitvids:
     version: '1.17'
   file_entity:
-    version: '2.25'
+    version: '2.27'
   hgraf_openid_connect:
     type: module
     subdir: custom
@@ -81,15 +81,13 @@ projects:
   libraries:
     version: '2.5'
   link:
-    version: '1.6'
+    version: '1.7'
   mailchimp:
-    version: '4.11'
-    patch:
-      - 'https://www.drupal.org/files/issues/2822227-translation-email-address.patch'
+    version: '4.12'
   masquerade:
     version: 1.0-rc7
   media:
-    version: '2.23'
+    version: '2.24'
   multiupload_filefield_widget:
     version: '1.13'
   multiupload_imagefield_widget:
@@ -131,7 +129,7 @@ projects:
   views_responsive_grid:
     version: '1.3'
   webform:
-    version: '4.20'
+    version: '4.21'
   wysiwyg:
     version: '2.6'
   xmlsitemap:

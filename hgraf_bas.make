@@ -5,7 +5,7 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.67.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.68.1.tar.gz'
   admin_menu:
     version: 3.0-rc6
   auto_entitylabel:
@@ -19,7 +19,7 @@ projects:
   bundle_copy:
     version: '1.1'
   ccl:
-    version: '1.6'
+    version: '1.7'
   ckeditor_link:
     version: '2.4'
   colorbox:
@@ -45,17 +45,17 @@ projects:
   metatag:
     version: '1.25'
   media:
-    version: '2.23'
+    version: '2.24'
   filefield_paths:
     version: '1.1'
   file_entity:
-    version: '2.25'
+    version: '2.27'
   flexslider:
     version: 2.0-rc1
   fitvids:
     version: '1.17'
   field_permissions:
-    version: '1.0'
+    version: '1.1'
   picture:
     version: '2.13'
   front:
@@ -81,11 +81,9 @@ projects:
   libraries:
     version: '2.5'
   link:
-    version: '1.6'
+    version: '1.7'
   mailchimp:
-    version: '4.11'
-    patch:
-      - 'https://www.drupal.org/files/issues/2822227-translation-email-address.patch'
+    version: '4.12'
   masquerade:
     version: 1.0-rc7
   multiupload_filefield_widget:
@@ -95,7 +93,7 @@ projects:
   media_vimeo:
     version: '2.1'
   media_youtube:
-    version: '3.8'
+    version: '3.9'
   pathauto:
     version: '1.3'
   redirect:
@@ -127,7 +125,7 @@ projects:
   views_bulk_operations:
     version: '3.5'
   webform:
-    version: '4.20'
+    version: '4.21'
   wysiwyg:
     version: '2.6'
   xmlsitemap:

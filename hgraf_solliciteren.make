@@ -5,7 +5,7 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.67.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.68.1.tar.gz'
   views_bulk_operations:
     version: '3.5'
     patch:
@@ -29,7 +29,7 @@ projects:
   field_group:
     version: '1.6'
   field_permissions:
-    version: '1.0'
+    version: '1.1'
   flag:
     version: '3.9'
   hgraf_openid_connect:
@@ -65,7 +65,7 @@ projects:
   pathauto:
     version: '1.3'
   profile2:
-    version: '1.6'
+    version: '1.7'
   readmorecontrol:
     version: '1.2'
   robotstxt:
