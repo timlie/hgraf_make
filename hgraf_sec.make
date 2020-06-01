@@ -5,7 +5,7 @@ projects:
     type: 'core'
     download:
       type: 'file'
-      url: 'http://files.aegir.cc/core/drupal-7.68.1.tar.gz'
+      url: 'http://files.aegir.cc/core/drupal-7.70.1.tar.gz'
   admin_menu:
     version: 3.0-rc6
   breakpoints:
@@ -21,7 +21,7 @@ projects:
   ckeditor_link:
     version: '2.4'
   colorbox:
-    version: '2.13'
+    version: '2.15'
   date:
     version: '2.10'
   draggableviews:
@@ -58,6 +58,8 @@ projects:
       url: 'git@github.com:timlie/hgraf_openid_connect.git'
   picture:
     version: '2.13'
+  faq:
+    version: '1.2'
   front:
     version: '2.4'
   globalredirect:
@@ -87,7 +89,7 @@ projects:
   masquerade:
     version: 1.0-rc7
   media:
-    version: '2.24'
+    version: '2.26'
   multiupload_filefield_widget:
     version: '1.13'
   multiupload_imagefield_widget:
@@ -113,7 +115,7 @@ projects:
   smtp:
     version: '1.7'
   tablefield:
-    version: '3.5'
+    version: '3.6'
   tagadelic:
     version: 2.x-dev
   taxonomy_access_fix:
@@ -121,15 +123,15 @@ projects:
   token:
     version: '1.7'
   views:
-    version: '3.23'
+    version: '3.24'
   views_aggregator:
-    version: '1.4'
+    version: '1.5'
   views_content_cache:
     version: 3.0-alpha3
   views_responsive_grid:
     version: '1.3'
   webform:
-    version: '4.21'
+    version: '4.22'
   wysiwyg:
     version: '2.6'
   xmlsitemap:
